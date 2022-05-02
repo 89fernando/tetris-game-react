@@ -7,13 +7,8 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-<<<<<<< HEAD
     <App />
     
-=======
-    {/* <App /> */}
-    <h1>Oi Nery Nery</h1>
->>>>>>> 8faaf944d88717c1dba283627ac0ee1145fe8e01
   </React.StrictMode>
 );
 
@@ -21,3 +16,4 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+//blablabla
