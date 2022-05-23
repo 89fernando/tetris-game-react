@@ -1,4 +1,3 @@
-import react from 'react';
 import Tetris from './components/Tetris'
 
 const App = () => {
